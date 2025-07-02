@@ -1,0 +1,1 @@
+lst=[[18,17,82],["Diyorbek","Sanjar","Javlon"]]
